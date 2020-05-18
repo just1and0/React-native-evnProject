@@ -1,7 +1,7 @@
 # React-native-evnProject 
 This is the demo application using  react-native-dotenv!!!
 
-The article containing instructions on how to build this app can be found [here]()
+The article containing instructions on how to build this app can be found [here](https://medium.com/just1and0/how-to-setup-env-file-in-your-react-native-application-2f760d806e02)
 
 # Getting Started
 These instructions should get you a copy of the project up and running on your local machine for development and testing purposes.
