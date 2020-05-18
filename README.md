@@ -21,7 +21,7 @@ cd <folder-name>
 
 - Clone this repository:
 ```
-git clone https://github.com/just1and0/React-native-evnProject
+git clone https://github.com/just1and0/React-native-evnProject.git
 ```
 
 - Install all the project's dependencies:
